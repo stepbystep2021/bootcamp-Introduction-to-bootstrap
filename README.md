@@ -1,2 +1,1 @@
-# bootcamp-Introduction-to-bootstrap
-Summer challenge-section-6
+TinDog Starting Files
